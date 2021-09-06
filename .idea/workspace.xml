@@ -101,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630920140226</updated>
-      <workItem from="1630920141717" duration="2895000" />
+      <workItem from="1630920141717" duration="4951000" />
     </task>
     <task id="LOCAL-00001" summary="Fix pom.xml">
       <created>1630921691686</created>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630921691686</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fix pom.xml">
+      <created>1630923217074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630923217074</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
