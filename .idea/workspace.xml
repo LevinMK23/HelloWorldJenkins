@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cd08b66-ce3e-48f5-a491-15cfbe43c20d" name="Default Changelist" comment="" />
+    <list default="true" id="0cd08b66-ce3e-48f5-a491-15cfbe43c20d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,9 @@
         <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1xlC9uLWRnMVvphB9llTEKpaDdk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -89,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630920140226</updated>
-      <workItem from="1630920141717" duration="671000" />
+      <workItem from="1630920141717" duration="1284000" />
     </task>
     <servers />
   </component>
